@@ -1,4 +1,4 @@
-# Simple image search project 
+# Simple image search project(Responsive)
 
 ![](https://github.com/kutlukarakoc/Image-Search-with-React/blob/main/searchImagesProject.png)
 
