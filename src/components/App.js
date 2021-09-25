@@ -14,7 +14,7 @@ const App = () => {
       headers: {Authorization: "Client-ID Q-vCWA3joCUZSIr96osDn0XM674ihPkMUDjGgGbBgm8"}
     });
 
-    console.log(result)
+    //console.log(result)
     setImages(result.data.results);
   }
 
